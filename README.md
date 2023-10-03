@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning the ins and outs of Computer Science!
 - 🌱 I’m currently learning how to program using Java.
 - 💞️ I’m looking to improve on my programming knowledge.
-- 📫 You can reach me via GitHub!
+- 📫 You can reach me via Reddit @JLJones_
